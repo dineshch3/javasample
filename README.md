@@ -1,7 +1,7 @@
 Android Samples
 ===============
 
-Sample Android code for the tutorials on my [blog][1].
+Sample Android code for the tutorials on my project
 
 Developed By
 ------------
